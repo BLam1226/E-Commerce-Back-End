@@ -64,7 +64,8 @@ router.put("/products/:id", async (req, res) => {
   }
 });
 
-router.delete("/product/:id", async (req, res) => {
+// delete product
+router.delete("/products/:id", async (req, res) => {
   // delete one product by its `id` value
   try {
     const productData = await Product.destroy({
