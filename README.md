@@ -22,6 +22,10 @@ enter your password
 then type source schema.sql to create the database and the tables
 then type node seeds/index.js in the root directory of the challenge folder to seed the database and tables with data
 
+
+https://github.com/BLam1226/E-Commerce-Back-End/assets/127125695/4c1fce8d-b224-48e4-ad98-d3e59fe28c11
+
+
 ## Contributing
 N/A
 
